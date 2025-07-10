@@ -40,55 +40,7 @@ All games uses default settings.
 
 - Uses VMware hardware compability 9.x
 
-### Quake 2
-
-Starting game with level 1 and looking at the glass window
-
-#### Default OpenGL / 640x480
-
-- Runs perfect with 65-75 fps
-
-#### Known Issues
-
-- Startup of level 1 sometimes just stops with a bluescreen after movie was shown
-
-### Quake 3 Arena
-
-Running timedemo with demo "four.dm_66":
-
-#### Default OpenGL / 640x480
-
-- Runs perfect to good, depending on the situation
-
-### Turok
-
-#### 3Dfx / 640x480
-
-- Runs perfect, butterly smooth
-
-### Expendable (Too slow)
-
-- After loading the game, it crashes with a messagebox, but it can be solved by executing "go.exe" and passing -nocputest
-
-https://www.pcgamingwiki.com/wiki/Expendable
-
-#### Direct Draw / 640x480 16-bit
-
-- Game is not playable, performance is extremely poor, even with lowest graphic settings
-
-### Rollcage
-
-#### Glide / 640x480
-
-- Runs good (~45-60 fps)
-
-### Forsaken (Not working)
-
-- Any 3D acceleration won't work
-- Software rendering won't work either
-- No picture, just pure black with a menu at the top
-- Invisible menu works and you could start a game, but the back buffering is fully broken and it flickers a lot
-- Sound & music is playing just fine
+---
 
 ### Autobahn Raser (Graphic errors)
 
@@ -103,9 +55,7 @@ https://www.pcgamingwiki.com/wiki/Expendable
 - Only 2D is working
 - Does not render any 3D
 
-### Croc (Not working)
-
-- Won't boot up regardless of the settings, even with software
+---
 
 ### Blood 2 (Mouse/Game too fast)
 
@@ -119,11 +69,21 @@ https://www.pcgamingwiki.com/wiki/Expendable
 - Sound & music is playing just fine
 - Game rendering seems fine
 
+---
+
+### Croc (Not working)
+
+- Won't boot up regardless of the settings, even with software
+
+---
+
 ### Croc 2
 
 #### Direct3D HAL / 640x480
 
 - Works great, but feels a little too fast
+
+---
 
 ### Drakan - Order of the Flame (Too slow)
 
@@ -132,6 +92,30 @@ https://www.pcgamingwiki.com/wiki/Expendable
 - Too slow, ~10-15 fps
 - Menu has low performance
 - Game has low performance
+
+---
+
+### Expendable (Too slow)
+
+- After loading the game, it crashes with a messagebox, but it can be solved by executing "go.exe" and passing -nocputest
+
+https://www.pcgamingwiki.com/wiki/Expendable
+
+#### Direct Draw / 640x480 16-bit
+
+- Game is not playable, performance is extremely poor, even with lowest graphic settings
+
+---
+
+### Forsaken (Not working)
+
+- Any 3D acceleration won't work
+- Software rendering won't work either
+- No picture, just pure black with a menu at the top
+- Invisible menu works and you could start a game, but the back buffering is fully broken and it flickers a lot
+- Sound & music is playing just fine
+
+---
 
 ### Half-Life
 
@@ -152,15 +136,89 @@ https://www.pcgamingwiki.com/wiki/Expendable
 - Runs good, ~50-60 fps
 - UI Rendering issues
 
+---
+
 ### kkrieger (Too slow)
 
-- Works with 20-30 fps, but has no graphical issues
+- Works with 20-25 fps
+
+---
+
+### Motorhead
+
+#### 3Dfx / 640x480
+
+- Graphics rendering issues, blue colors in some areas
+
+![motorhead_glide_640x480_blue_issue](https://github.com/user-attachments/assets/1d6ebce6-5059-4c0c-924c-fa83edaf9e83)
+
+#### DirectDraw HAL / 640x480
+
+- Slide show, ~5-10 fps
+
+#### Software / 640x480
+
+- Works perfect, butterly smooth
+
+---
+
+### Need for Speed II Special Edition
+
+- Crashes with the typical memory access violation dialog
+
+---
+
+### Need for Speed III (Not working)
+
+- Requires "Need For Speed III Modern Patch v1.6.1", otherwise it won't start on modern CPU's
+
+#### Default Graphics Accelerator
+
+- Intro Videos works
+- Menu does not show up (black screen)
+- Sound and music is working just fine
+
+---
+
+### Turok
+
+#### 3Dfx / 640x480
+
+- Runs perfect, butterly smooth
+
+---
 
 ### Oni
 
 ### 640x480 32-bit
 
 - Runs perfect, butterly smooth
+
+---
+
+### Quake 2
+
+Starting game with level 1 and looking at the glass window
+
+#### Default OpenGL / 640x480
+
+- Runs perfect with 65-75 fps
+
+#### Known Issues
+
+- Startup of level 1 sometimes just stops with a bluescreen after movie was shown
+
+---
+
+### Quake 3 Arena
+
+Running timedemo with demo "four.dm_66":
+
+#### Default OpenGL / 640x480
+
+- Runs perfect to good, depending on the situation
+
+---
 
 ### Red Faction
 
@@ -169,6 +227,42 @@ https://www.pcgamingwiki.com/wiki/Expendable
 - Runs perfect, butterly smooth
 
 - Previous SoftGPU releases was not working for this title at all (it was too fast)
+
+---
+
+### Rollcage
+
+#### Glide / 640x480
+
+- Runs good (~45-60 fps)
+
+---
+
+### Tomb Raider II (Not working)
+
+- Won't startup
+- Setup tool shows a black window, does nothing
+
+---
+
+### Tomb Raider III (Not working)
+
+- Won't startup and will not show the setup tool
+- Setup tool crashes the VM
+
+---
+
+### Unreal Gold
+
+#### 3Dfx Glide / 640x480 16-bit
+
+- Slow performance: +10 fps
+
+#### Direct3D / 640x480 32-bit
+
+- Works perfect, butterly smooth
+
+---
 
 ### Unreal Tournament
 
@@ -188,57 +282,10 @@ https://www.pcgamingwiki.com/wiki/Expendable
 
 - Works perfect, butterly smooth
 
-### Unreal Gold
-
-#### 3Dfx Glide / 640x480 16-bit
-
-- Slow performance: +10 fps
-
-#### Direct3D / 640x480 32-bit
-
-- Works perfect, butterly smooth
-
-### Tomb Raider II (Not working)
-
-- Won't startup
-- Setup tool shows a black window, does nothing
-
-### Tomb Raider III (Not working)
-
-- Won't startup and will not show the setup tool
-- Setup tool crashes the VM
-
-### Need for Speed II Special Edition
-
-- Crashes with the typical memory access violation dialog
-
-### Need for Speed III (Not working)
-
-- Requires "Need For Speed III Modern Patch v1.6.1", otherwise it won't start on modern CPU's
-
-#### Default Graphics Accelerator
-
-- Intro Videos works
-- Menu does not show up (black screen)
-- Sound and music is working just fine
-
-### Motorhead
-
-#### 3Dfx / 640x480
-
-- Graphics rendering issues, blue colors in some areas
-
-![motorhead_glide_640x480_blue_issue](https://github.com/user-attachments/assets/1d6ebce6-5059-4c0c-924c-fa83edaf9e83)
-
-#### DirectDraw HAL / 640x480
-
-- Slide show, ~5-10 fps
-
-#### Software / 640x480
-
-- Works perfect, butterly smooth
+---
 
 ## v10
 
 - Uses VMware hardware compability 17.5.x
 
+---
