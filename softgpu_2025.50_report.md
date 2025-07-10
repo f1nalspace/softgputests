@@ -107,6 +107,12 @@ https://www.pcgamingwiki.com/wiki/Expendable
 
 ---
 
+### FIFA 98 (Not working)
+
+- Does not startup at all and freezes windows, until the task is killed
+
+---
+
 ### Forsaken (Not working)
 
 - Any 3D acceleration won't work
@@ -135,6 +141,18 @@ https://www.pcgamingwiki.com/wiki/Expendable
 
 - Runs good, ~50-60 fps
 - UI Rendering issues
+
+---
+
+### Heretic 2
+
+#### 3Dfx / 640x480
+
+- Not working
+
+#### OpenGL / 640x480 32-bit
+
+- Runs good, ~50-60 fps
 
 ---
 
