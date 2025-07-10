@@ -144,7 +144,7 @@ https://www.pcgamingwiki.com/wiki/Expendable
 
 ---
 
-### Motorhead
+### Motorhead (Partially working)
 
 #### 3Dfx / 640x480
 
@@ -162,7 +162,7 @@ https://www.pcgamingwiki.com/wiki/Expendable
 
 ---
 
-### Need for Speed II Special Edition
+### Need for Speed II Special Edition (Not working)
 
 - Crashes with the typical memory access violation dialog
 
@@ -256,7 +256,7 @@ Running timedemo with demo "four.dm_66":
 
 #### 3Dfx Glide / 640x480 16-bit
 
-- Slow performance: +10 fps
+- Slow performance: ~10 fps
 
 #### Direct3D / 640x480 32-bit
 
