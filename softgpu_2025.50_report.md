@@ -198,12 +198,12 @@ https://www.pcgamingwiki.com/wiki/Expendable
 
 - Works perfect, butterly smooth
 
-### Tomb Raider II
+### Tomb Raider II (Not working)
 
 - Won't startup
 - Setup tool shows a black window, does nothing
 
-### Tomb Raider III
+### Tomb Raider III (Not working)
 
 - Won't startup and will not show the setup tool
 - Setup tool crashes the VM
@@ -211,6 +211,16 @@ https://www.pcgamingwiki.com/wiki/Expendable
 ### Need for Speed II Special Edition
 
 - Crashes with the typical memory access violation dialog
+
+### Need for Speed III (Not working)
+
+- Requires "Need For Speed III Modern Patch v1.6.1", otherwise it won't start on modern CPU's
+
+#### Default Graphics Accelerator
+
+- Intro Videos works
+- Menu does not show up (black screen)
+- Sound and music is working just fine
 
 ### Motorhead
 
