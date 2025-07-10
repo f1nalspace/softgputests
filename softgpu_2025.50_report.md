@@ -212,6 +212,15 @@ https://www.pcgamingwiki.com/wiki/Expendable
 
 - Crashes with the typical memory access violation dialog
 
+### Motorhead
+
+#### 3Dfx / 640x480
+
+- Graphics rendering issues, blue colors in some areas
+
+![motorhead_glide_640x480_blue_issue](https://github.com/user-attachments/assets/1d6ebce6-5059-4c0c-924c-fa83edaf9e83)
+
 ## v10
 
 - Uses VMware hardware compability 17.5.x
+
