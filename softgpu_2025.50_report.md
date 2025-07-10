@@ -198,6 +198,16 @@ https://www.pcgamingwiki.com/wiki/Expendable
 
 - Works perfect, butterly smooth
 
+### Tomb Raider II
+
+- Won't startup
+- Setup tool shows a black window, does nothing
+
+### Tomb Raider III
+
+- Won't startup and will not show the setup tool
+- Setup tool crashes the VM
+
 ## v10
 
 - Uses VMware hardware compability 17.5.x
