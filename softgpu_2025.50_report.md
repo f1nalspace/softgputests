@@ -208,6 +208,10 @@ https://www.pcgamingwiki.com/wiki/Expendable
 - Won't startup and will not show the setup tool
 - Setup tool crashes the VM
 
+### Need for Speed II Special Edition
+
+- Crashes with the typical memory access violation dialog
+
 ## v10
 
 - Uses VMware hardware compability 17.5.x
