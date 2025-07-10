@@ -220,6 +220,14 @@ https://www.pcgamingwiki.com/wiki/Expendable
 
 ![motorhead_glide_640x480_blue_issue](https://github.com/user-attachments/assets/1d6ebce6-5059-4c0c-924c-fa83edaf9e83)
 
+#### DirectDraw HAL / 640x480
+
+- Slide show, ~5-10 fps
+
+#### Software / 640x480
+
+- Works perfect, butterly smooth
+
 ## v10
 
 - Uses VMware hardware compability 17.5.x
