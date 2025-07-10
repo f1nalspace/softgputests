@@ -170,6 +170,17 @@ https://www.pcgamingwiki.com/wiki/Expendable
 
 ---
 
+### Max Payne (Not working)
+
+- Added rlmfc DLL fix (luigoalma) for Ryzen CPU's
+
+#### D3D Hardware T&L / 640x480 32-bit
+
+- Crashes the VM and failed to power off automatically
+- Was working before with SoftGPU 2024.40
+
+---
+
 ### Motorhead (Partially working)
 
 #### 3Dfx / 640x480
