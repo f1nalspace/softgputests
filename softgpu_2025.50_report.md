@@ -144,6 +144,14 @@ https://www.pcgamingwiki.com/wiki/Expendable
 
 ---
 
+### Heavy Metal FAKK 2
+
+#### OpenGL / 640x480 32-bit
+
+- Works perfect, butterly smooth
+
+---
+
 ### Heretic 2
 
 #### 3Dfx / 640x480
