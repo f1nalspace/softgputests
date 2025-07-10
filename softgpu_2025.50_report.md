@@ -60,10 +60,6 @@ Running timedemo with demo "four.dm_66":
 
 - Runs perfect to good, depending on the situation
 
-### Forsaken (Not working)
-
-- Won't startup, even in software mode
-
 ### Turok
 
 #### 3Dfx / 640x480
