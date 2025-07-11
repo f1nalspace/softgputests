@@ -15,6 +15,7 @@ Last Update: **2025-07-11**
 
 ## Software
 
+
 - Windows 11 Pro 24H2
 - NVIDIA 572.16 Studio Driver
 - VMWare Workstation 17.5.2
@@ -359,6 +360,8 @@ https://www.pcgamingwiki.com/wiki/Expendable
 #### Glide
 
 - Tons of graphics bugs, white textures almost everywhere
+
+![pod_glide_broken](https://github.com/user-attachments/assets/2f0cec0e-49ca-4d50-903f-46983749daa1)
 
 ---
 
