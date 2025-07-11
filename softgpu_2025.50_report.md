@@ -190,9 +190,11 @@ This contain only titles that have issues and requires further details/screensho
 
 - Not working, crashes with a weird error message
 
-#### DirectDraw
+#### Direct3D HAL / 640x480
 
-- Graphic rendering bugs everywhere
+- Graphic rendering bugs, blacks almost everywhere
+
+![descent3_d3d_black](https://github.com/user-attachments/assets/f778551b-5b86-481d-b99b-e30a071fbcb4)
 
 ---
 
