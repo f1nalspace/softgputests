@@ -2,6 +2,8 @@
 
 Last Update: **[Date]**
 
+Author: [Author Name]
+
 ## Host
 
 - AMD Ryzen 7950X

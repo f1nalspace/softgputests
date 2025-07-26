@@ -2,6 +2,8 @@
 
 Last Update: **2025-07-26**
 
+Author: f1nalspace
+
 ## Host
 
 - AMD Ryzen 7950X
