@@ -1,6 +1,6 @@
-﻿# Games Testreport for **_SoftGPU 2025.50_**
+﻿# Games Testreport for **_SoftGPU 2025.50_ (v9)**
 
-Last Update: **2025-07-11**
+Last Update: **2025-07-26**
 
 ## Host
 
@@ -15,12 +15,11 @@ Last Update: **2025-07-11**
 
 ## Software
 
-
 - Windows 11 Pro 24H2
-- NVIDIA 572.16 Studio Driver
+- NVIDIA 576.80 Studio Driver
 - VMWare Workstation 17.5.2
 
-# VMWare / GPUv9
+# VMWare
 
 All games uses default settings with **640x480**.
 
@@ -128,14 +127,6 @@ This contain only titles that have issues and requires further details/screensho
 
 ---
 
-### American Mc'Gees Alice
-
-#### OpenGL / 640x480 16-bit
-
-- Runs very well
-
----
-
 ### Autobahn Raser (Graphic errors)
 
 #### 320x240 or 640x480
@@ -170,14 +161,6 @@ This contain only titles that have issues and requires further details/screensho
 ### Croc (Not working)
 
 - Won't boot up regardless of the settings, even with software
-
----
-
-### Croc 2
-
-#### Direct3D HAL / 640x480
-
-- Works great, but feels a little too fast
 
 ---
 
@@ -239,30 +222,9 @@ https://www.pcgamingwiki.com/wiki/Expendable
 
 ### Half-Life
 
-#### Software / 640x480
-
-- Runs good, ~60 fps
-
-#### OpenGL / 640x480
-
-- Runs good, ~60 fps
-
-#### Direct3D / 640x480
-
-- Runs good, ~60 fps
-
 #### 3Dfx mini driver / 640x480
 
-- Runs good, ~50-60 fps
 - UI Rendering issues
-
----
-
-### Heavy Metal FAKK 2
-
-#### OpenGL / 640x480 32-bit
-
-- Works perfect, butterly smooth
 
 ---
 
@@ -271,10 +233,6 @@ https://www.pcgamingwiki.com/wiki/Expendable
 #### 3Dfx / 640x480
 
 - Not working
-
-#### OpenGL / 640x480 32-bit
-
-- Runs good, ~50-60 fps
 
 ---
 
@@ -307,10 +265,6 @@ https://www.pcgamingwiki.com/wiki/Expendable
 
 - Slide show, ~5-10 fps
 
-#### Software / 640x480
-
-- Works perfect, butterly smooth
-
 ---
 
 ### Need for Speed II Special Edition (Not working)
@@ -328,22 +282,6 @@ https://www.pcgamingwiki.com/wiki/Expendable
 - Intro Videos works
 - Menu does not show up (black screen)
 - Sound and music is working just fine
-
----
-
-### No One Lives Forever
-
-#### Direct3D HAL / 640x480 16-bit
-
-- Runs good, almost at 60 fps
-
----
-
-### Oni
-
-#### 640x480 32-bit
-
-- Runs perfect, butterly smooth
 
 ---
 
@@ -367,7 +305,7 @@ https://www.pcgamingwiki.com/wiki/Expendable
 
 ### Prince of Persia: Sands of Time (Broken rendering)
 
-- Note that the minimum pixel/vertex shader version is not sufficient
+- Note that the minimum pixel/vertex shader version is not sufficient -> requires GPUv10
 
 #### 640x480 32-bit
 
@@ -376,77 +314,11 @@ https://www.pcgamingwiki.com/wiki/Expendable
 
 ---
 
-### Quake 2
-
-Starting game with level 1 and looking at the glass window
-
-#### Default OpenGL / 640x480
-
-- Runs perfect with 65-75 fps
-
-#### Known Issues
-
-- Startup of level 1 sometimes just stops with a bluescreen after movie was shown
-
----
-
-### Quake 3 Arena
-
-Running timedemo with demo "four.dm_66":
-
-#### Default OpenGL / 640x480
-
-- Runs perfect to good, depending on the situation
-
----
-
 ### Red Faction
 
 #### Direct 3D HAL /  640x480 32-bit
 
-- Runs perfect, butterly smooth
-
 - Previous SoftGPU releases was not working for this title at all (it was too fast)
-
----
-
-### Return To Castle Wolfenstein
-
-#### OpenGL / 640x480 32-bit
-
-- Runs perfect, butterly smooth
-
----
-
-### Rollcage
-
-#### Glide / 640x480
-
-- Runs good (~45-60 fps)
-
----
-
-### Septerra Core
-
-#### DirectDraw
-
-- Runs perfect, butterly smooth
-
----
-
-### Star Trek: Voyager Elite Force
-
-#### OpenGL / 640x480
-
-- Runs perfect, butterly smooth
-
----
-
-### Star Wars Jedi Knight II
-
-#### OpenGL / 640x480
-
-- Runs perfect, butterly smooth
 
 ---
 
@@ -464,23 +336,11 @@ Running timedemo with demo "four.dm_66":
 
 ---
 
-### Turok
-
-#### 3Dfx / 640x480
-
-- Runs perfect, butterly smooth
-
----
-
 ### Unreal Gold
 
 #### 3Dfx Glide / 640x480 16-bit
 
 - Slow performance: ~10 fps
-
-#### Direct3D / 640x480 32-bit
-
-- Works perfect, butterly smooth
 
 ---
 
@@ -490,37 +350,6 @@ Running timedemo with demo "four.dm_66":
 
 - Low performance: ~20-30 fps
 
-#### OpenGL / 640x840 16 bit
-
-- Runs perfect, butterly smooth
-
 #### OpenGL / 640x840 32 bit
 
 - Crashes with a pixel format error
-
-#### Direct3D / 640x840 32 bit
-
-- Runs perfect, butterly smooth
-
----
-
-# VMWare / GPUv10
-
-All games uses default settings with **640x480**.
-
-All virtual machines have the following base configuration:
-
-- VMware hardware compability: 17.5.x
-- Memory: 2 GB
-- CPU: 1:1 (Virtualize Intel VT-x/EPT or AMD_V/RVI)
-- Harddisk: 40 GB IDE
-- CD/DVD
-- Floppy
-- USB: 1.1
-- Sound Card (sound.virtualDev = "es1371")
-- Display, 256 MB, Stretch Mode: Keep aspect ratio stretch, Accelerate 3D graphics
-- Windows 98 SE (patch9x, patchmem)
-- Desktop: 800x600 32-bit
-- SoftGPU 2025.50
-
----
