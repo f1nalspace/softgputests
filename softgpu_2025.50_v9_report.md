@@ -1,6 +1,6 @@
 ﻿# Games Testreport for **_SoftGPU 2025.50_ (v9)**
 
-Last Update: **2025-07-26**
+Last Update: **2025-07-11**
 
 Author: f1nalspace
 
@@ -18,7 +18,7 @@ Author: f1nalspace
 ## Software
 
 - Windows 11 Pro 24H2
-- NVIDIA 576.80 Studio Driver
+- NVIDIA 572.16 Studio Driver
 - VMWare Workstation 17.5.2
 
 # VMWare
